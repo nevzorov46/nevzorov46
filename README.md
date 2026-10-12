@@ -9,7 +9,7 @@ Musician: I write my own music in Logic Pro.
 - [Metal Audio Visualizer](https://github.com/nevzorov46/MetalAudioVisualizer) — four music stems drive a Metal scene in sync
 - [SunFlares](https://github.com/nevzorov46/SunFlares) — a real-time Sun from 16,384 GPU particles
 - [Avatar Companion](https://github.com/nevzorov46/realitykit-avatar-companion) — a RealityKit 3D companion whose mood drives its animation
-- [A gravity-assist puzzle for iPhone where orbits play notes. (https://github.com/nevzorov46/Perihelion) - A gravity-assist puzzle for iPhone where orbits play notes. Swift 6, Metal, deterministic N-body physics, levels that ship with their own proof of solvability, and playable with VoiceOver.]
+- [Perihelion](https://github.com/nevzorov46/Perihelion) - a gravity-assist puzzle where orbits play notes: deterministic N-body physics, levels that ship with their own proof, playable with VoiceOver
 **Swift Concurrency**
 - [swift-async-cache](https://github.com/nevzorov46/swift-async-cache) — one load per key for concurrent callers, TTL and LRU
 
