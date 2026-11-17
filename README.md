@@ -1,7 +1,7 @@
 ### I build iOS that feels instant
 
-Senior iOS Engineer · 6+ years · realtime, FinTech and graphics on Apple platforms.
-Banking app from scratch, now 160K+ daily users (99.98% crash-free) · 3D avatars at 60 FPS · app startup 8s → 4s.
+Senior iOS Engineer · 6+ years · realtime, FinTech and graphics on Apple platforms.<br>
+Banking app from scratch, now 160K+ daily users (99.98% crash-free) · 3D avatars at 60 FPS · app startup 8s → 4s.<br>
 Musician: I write my own music in Logic Pro.
 
 **FinTech and Swift Concurrency**
